@@ -1,0 +1,19 @@
+a(i, 1, 5)
+b(int, :a)
+cValue(Integer, :a, :b)
+
+// comment
+
+// range:
+savedRange(Range, 0, T)
+
+i: T(10)
+i: n(1, :T)
+i: m(1, 10)
+symbols{ + - ? }
+s: string(abcde, 1)
+s: word(ABCTS, 2)
+
+k = 1..:n // i: k[1, :n)
+
+command{ a b c }

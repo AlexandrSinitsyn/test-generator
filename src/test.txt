@@ -1,0 +1,5 @@
+:n :m :k :$
+for i in [1, 10] do
+    :symbols :i - (1, :n] :$
+for i in [0, :m) do
+    :word -> :string :$
